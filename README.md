@@ -14,8 +14,10 @@
 
 ## Использование:
 **Windows:**
-- Скачайте **.exe-файл** по **[ссылке](https://github.com/MatroCholo/sms-bomber/releases)**
-- Запустите **sms-bomber.exe**
+- Скачайте **.zip-файл** по **[ссылке](https://github.com/MatroCholo/sms-bomber/releases)**
+- Установите **Python 3.x** и **pip**,
+- Используя **pip**, установите **requests** и **colorama**,
+- Запустите **sms-bomber.py**
 
 **Linux:**
 - Установите **Python 3.x**, **pip** и **git** в соответствии с вашим дистрибутивом,
