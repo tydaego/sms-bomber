@@ -4,6 +4,7 @@
 ## Предупреждения:
 - Для работы программы необходим **доступ в Интернет**,
 - Убедитесь, что вы используете последнюю версию **SMS Bomber**,
+- Убедитесь, что вы используете библиотеки **requests** и **colorama**
 - Убедитесь, что вы используете **Python 3.x**,
 - Программа **не собирает и не отправляет персональные данные третьим лицам!** 
 
@@ -18,13 +19,14 @@
 
 **Linux:**
 - Установите **Python 3.x**, **pip** и **git** в соответствии с вашим дистрибутивом,
+- Используя **pip**, установите **requests** и **colorama**,
 - git clone **https://github.com/MatroCholo/sms-bomber**
 - cd **sms-bomber/**
 - python **sms-bomber.py**
 
 ## Ручная конвертация .py в .exe:
 - Нажмите **Windows + R**, введите **cmd** и нажмите **Enter**,
-- В открывшемся окне введите **pip install pyinstaller**,
+- В открывшемся окне введите **pip install pyinstaller colorama requests**,
 - После установки введите:
 **pyinstaller C:\Directory\file.py --onefile --icon C:\Directory\file.icon**, где
 - - **pyinstaller** - **команда конвертирования**,
