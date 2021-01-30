@@ -13,7 +13,6 @@
 
 ## Использование:
 **Windows:**
-- Установите **Python 3.x**.
 - Скачайте **.exe-файл** по **[ссылке](https://github.com/MatroCholo/sms-bomber/releases)**
 - Запустите **sms-bomber.exe**
 
@@ -38,7 +37,7 @@
 | Версия       | Поддержка          |
 | -------------| ------------------ |
 | v0.2         | Скоро              |
-| v0.1         | :white_check_mark:                |
+| v0.1         | :white_check_mark: |
 
 ## Обратная связь:
 - ВК: https://vk.com/matrocholo
