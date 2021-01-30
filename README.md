@@ -41,5 +41,5 @@
 | v0.1         | :white_check_mark:                |
 
 ## Обратная связь:
-ВК: https://vk.com/matrocholo
-Telegram: https://t.me/MatroCholo
+- ВК: https://vk.com/matrocholo
+- Telegram: https://t.me/MatroCholo
