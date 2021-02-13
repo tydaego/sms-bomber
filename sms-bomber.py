@@ -74,9 +74,9 @@ def bombing():
     if phone[0] == '+':
         phone = phone[1:]
     if phone[0] == '8':
-        phone = '7' + phone[1:]
+        phone = '375' + phone[1:]
     if phone[0] == '9':
-        phone = '7' + phone
+        phone = '375' + phone
     for x in range(12):
         name = name + random.choice(list('1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM'))
         password = name + random.choice(list('1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM'))
